@@ -1,5 +1,8 @@
 # pdfm
-A dead-simple Python tool to merge PDF files
+A dead-simple Python tool to merge PDF files. I got sick of using someone else's tool to do this.
+
+Requires pypdf library
+```pip install pypdf```
 
 Usage
 ```python pdfm.py "pdf-example1.pdf" "pdf-example2.pdf"```
